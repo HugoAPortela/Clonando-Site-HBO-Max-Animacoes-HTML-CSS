@@ -135,7 +135,7 @@ Você pode acessar ao resultado final do projeto [clicando aqui](https://github.
 
 <h2 id="author">💻 Autor</h2>
 <p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
+   
     <p>&nbsp&nbsp&nbspHugo Andrades Portela<br>
     &nbsp&nbsp&nbsp<a href="http://instagram.com/hugoaportela">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/HugoAPortela">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/hugo-portela0611/">LinkedIn</a>&nbsp;|&nbsp;</p>
 </p>
@@ -143,4 +143,4 @@ Você pode acessar ao resultado final do projeto [clicando aqui](https://github.
 <p>
 
 ---
-⌨️ com por [Hugo Andrades Portela](https://github.com/HugoAPortela) 
+[Hugo Andrades Portela](https://github.com/HugoAPortela) 
