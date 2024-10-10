@@ -133,14 +133,6 @@ As fontes utilizadas no projeto foram:
 Você pode acessar ao resultado final do projeto [clicando aqui](https://github.com/HugoAPortela/Clonando-Site-HBO-Max-Animacoes-HTML-CSS).
 
 
-<h2 id="author">💻 Autor</h2>
-<p>
-   
-    <p>&nbsp&nbsp&nbspHugo Andrades Portela<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/hugoaportela">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/HugoAPortela">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/hugo-portela0611/">LinkedIn</a>&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
 
 ---
 [Hugo Andrades Portela](https://github.com/HugoAPortela) 
